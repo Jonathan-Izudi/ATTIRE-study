@@ -10,4 +10,6 @@ Another work from another computer in Berkeley
 
 Add another line while in the field.
 
-Line #6 is a serious error so deleted it.
+Line 6 is a serious error so deleted it.
+
+This is a potential problem.
